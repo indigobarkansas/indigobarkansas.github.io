@@ -1,0 +1,57 @@
+<script>
+var step = 1;
+function chat() {
+  input = document.getElementById("input");
+  output = document.getElementById("output");
+  if(step == 1) {
+    output.innerHTML = "I like "+input.value+".  What is your favorite animal?";
+
+  } else if(step == 2){
+    output.innerHTML = "I like "+input.value+"s too. What is your favorite food?";
+
+    } else if(step == 3){
+    output.innerHTML = "I like "+input.value+" too. What is your favorite season?";
+
+    }else if(step == 4){
+      output.innerHTML =  "I like "+input.value+" too. What is the ideal name for a tiger?";
+
+      }else if(step == 5){
+      output.innerHTML =  "The wrong answer is "+input.value+ ". On average, how many crayons do you eat a week?";
+
+      }else if(step == 6){
+      output.innerHTML =  "That is not healthy.";
+
+       } else if(step == 7){ 
+       output.innerHTML = "no.";
+
+       }else if(step == 8)
+       output.innerHTML = "How many towns has Adrienne lived in?";
+
+}else if(step == 9)
+output.innerHTML = "Correct answer: 4. What was the second town that Adrienne lived in?";
+
+}else if(step == 10)
+output.innerHTML = "Correct answer: North Reading. What was Adrienne's favorite feature besides her parents' room in her stoneham house?";
+
+}else if(step == 11)
+output.innerHTML = "Correct answer: the laundry chute (we would go down it kinda like a slide). 
+
+}else if(step 12)
+
+
+
+
+
+
+
+
+
+
+  }
+  step += 1;
+  input.value = "";
+}
+</script>
+
+<div id=output>What is your favorite color?</div>
+<input id=input> <button onclick="chat()">Chat</button></input>
