@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <p style="color:orange;font-size:200%">When To Take The Puppy Out</p>
+    <ul>
+      <li> First thing in the morning(6:00 ish)</li>
+      <li> Right after they eat</li>
+      <li> 7:15ish</li>
+      <li> 8:00</li>
+      <li> 8:45</li>
+      <li> 9:30 ish</li>
+      <li> 10:15</li>
+      <li> 10:45</li>
+      <li> 11:30</li>
+      <li> 12:00</li>
+      <li> 12:45</li>
+      <li> nap time for as long as possible(probably 1 hour ish)</li>
+      <li> first thing after nap</li>
+      <li> 2:45</li>
+      <li> 3:15</li>
+      <li> 4:00</li>
+      <li> 4:45</li>                <img style="width:75%" src=https://cdn1-www.dogtime.com/assets/uploads/2010/12/puppies.jpg>
+      <li> 5:15</li>
+      <li> 6:00</li>
+      <li>6:30 </li>
+      <li> first thing after dinner</li>
+      <li>7:15 </li>
+       <li> 8:00</li>
+      <li> 8:45</li>
+      <li> 9:30 ish</li>
+       <li> 8:00</li>
+      <li> 8:45</li>
+      <li> 9:30 ish</li>
+      <li> 10:15</li>
+       <li> 8:00</li>
+      <li> 8:45</li>
+      <li> 9:30 ish</li>
+      <li> 10:15</li>
+      <li> take them out out as many times during the night as they need to also crate train them</li>
+
+       
+
+      
+
+    <script src="script.js"></script>
+  </body>
+</html>
